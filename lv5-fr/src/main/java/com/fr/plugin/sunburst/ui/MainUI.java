@@ -1,7 +1,11 @@
 package com.fr.plugin.sunburst.ui;
 
 import com.fanruan.api.design.DesignKit;
+import com.fanruan.api.design.chart.BaseChartTypeUI;
+import com.fanruan.api.design.chart.BaseDataPane;
+import com.fanruan.api.design.chart.DefaultTypePane;
 import com.fr.design.gui.frpane.AttributeChangeListener;
+import com.fanruan.api.design.chart.*;
 
 /*
  * 7定义图表的所有界面

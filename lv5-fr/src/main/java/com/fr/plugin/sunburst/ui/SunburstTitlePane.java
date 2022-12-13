@@ -4,7 +4,8 @@ import com.fanruan.api.design.DesignKit;
 import com.fanruan.api.design.chart.BaseOtherPane;
 import com.fanruan.api.design.ui.component.formula.UIFormulaTextField;
 import com.fr.plugin.sunburst.SunburstChart;
-
+import javax.swing.*;
+import java.awt.*;
 /**
  * 6定义其他的面板
  * 如果要实现一个完全自定义的面板，则继承BaseOtherPane类，添加面板组件，并实现createContentPane方法来创建面板

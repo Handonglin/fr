@@ -9,6 +9,8 @@ import com.fr.design.mainframe.widget.editors.StringEditor;
 import com.fr.design.mainframe.widget.editors.WidgetValueEditor;
 import com.fr.plugin.parameter.slider.fun.Slider;
 
+import javax.swing.*;
+import java.awt.*;
 /**
  * @author Hangdonglin
  * @version 10.0
@@ -17,7 +19,7 @@ import com.fr.plugin.parameter.slider.fun.Slider;
 public class XSlider extends XOpenCreator {
 
     public XSlider(Slider slider, Dimension size) {
-        super(slider, size);
+        super(slider,  size);
     }
 
     @Override

@@ -5,6 +5,7 @@ import com.fanruan.api.design.chart.field.BaseDataSetFieldsPane;
 import com.fanruan.api.design.ui.component.UIComboBox;
 import com.fanruan.api.design.ui.component.chart.CalculateComboBox;
 import com.fr.plugin.sunburst.SunburstColumnFieldCollection;
+import java.awt.*;
 
 /*
  * 3.2数据集数据源配置面板: 使用下拉选择框UIComboBox类作为数据集数据源的数据配置框，可以选择数据集中对应的字段

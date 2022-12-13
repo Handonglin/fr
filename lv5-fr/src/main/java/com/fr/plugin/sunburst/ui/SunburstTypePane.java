@@ -7,6 +7,10 @@ import com.fanruan.api.util.StringKit;
 import com.fr.plugin.sunburst.SunburstChart;
 import com.fr.plugin.sunburst.type.SunburstType;
 
+import javax.swing.*;
+import java.awt.*;
+
+
 /*
  * 5定义图表类型配置界面
  * @author Handonglin
