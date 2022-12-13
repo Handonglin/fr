@@ -3,7 +3,7 @@ package com.fr.plugin.db.mongodb.connect.core.handler.bean;
 import com.fr.plugin.db.mongodb.connect.core.handler.bean.emb.MongoDB;
 import com.fr.plugin.db.mongodb.table.util.MongoDBDataDealUtils;
 import com.fr.plugin.db.mongodb.table.util.MongoDBUtils;
-import com.fr.plugin.db.mongodb.table.visit.DataWarp;
+import com.fr.plugin.db.mongodb.table.data.DataWarp;
 import com.mongodb.MongoClient;
 import com.mongodb.MongoCredential;
 import com.mongodb.ServerAddress;

@@ -1,6 +1,6 @@
 package com.fr.plugin.db.mongodb.table.util;
 
-import com.fr.plugin.db.mongodb.table.visit.DataWarp;
+import com.fr.plugin.db.mongodb.table.data.DataWarp;
 import com.mongodb.client.MongoCursor;
 import org.bson.Document;
 

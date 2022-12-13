@@ -13,7 +13,7 @@ import com.fr.intelli.record.Focus;
 import com.fr.intelli.record.Original;
 import com.fr.plugin.db.mongodb.connect.core.MongoDBDatabaseConnection;
 import com.fr.plugin.db.mongodb.table.util.MongoDBUtils;
-import com.fr.plugin.db.mongodb.table.visit.MongoDBConstants;
+import com.fr.plugin.db.mongodb.table.data.MongoDBConstants;
 import com.fr.record.analyzer.EnableMetrics;
 import com.fr.script.Calculator;
 import com.fr.stable.ParameterProvider;

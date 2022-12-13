@@ -5,7 +5,7 @@ import com.fanruan.api.util.StringKit;
 import com.fr.plugin.context.PluginContexts;
 import com.fr.plugin.db.mongodb.connect.core.MongoDBDatabaseConnection;
 import com.fr.plugin.db.mongodb.connect.core.handler.bean.emb.MongoDB;
-import com.fr.plugin.db.mongodb.table.visit.DataWarp;
+import com.fr.plugin.db.mongodb.table.data.DataWarp;
 import com.fr.stable.ParameterProvider;
 import com.fr.stable.script.CalculatorProvider;
 

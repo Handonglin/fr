@@ -1,6 +1,6 @@
 package com.fr.plugin.db.mongodb.connect.core.handler.bean.emb;
 
-import com.fr.plugin.db.mongodb.table.visit.DataWarp;
+import com.fr.plugin.db.mongodb.table.data.DataWarp;
 
 public interface MongoDB {
     String test() ;
